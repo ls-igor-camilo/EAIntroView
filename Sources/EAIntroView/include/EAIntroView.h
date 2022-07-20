@@ -4,7 +4,7 @@
 //  Copyright (c) 2013-2020 Evgeny Aleksandrov. License: MIT.
 
 #import <UIKit/UIKit.h>
-#import <EARestrictedScrollView/EARestrictedScrollView.h>
+@import EARestrictedScrollView;
 #import "EAIntroPage.h"
 
 #define EA_EMPTY_PROPERTY 9999.f
